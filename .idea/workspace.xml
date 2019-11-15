@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dca9b49-3fc2-4313-ac90-443fedb628dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello-react/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/ErrorBoundary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/EventPractice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/IterationSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/LifeCycleSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/MyComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/Say.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/ScrollBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/ValidationSample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-react/src/ValidationSample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hooks-tutorial/src/Average.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hooks-tutorial/src/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hooks-tutorial/src/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SassComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SassComponent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/utils.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../003002_pjt_sample_box" beforeDir="false" afterPath="$PROJECT_DIR$/../003002_pjt_sample_box" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../003_pjt_sci_box" beforeDir="false" afterPath="$PROJECT_DIR$/../003_pjt_sci_box" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abs" beforeDir="false" afterPath="$PROJECT_DIR$/../abs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ci_polsoft" beforeDir="false" afterPath="$PROJECT_DIR$/../ci_polsoft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/repository/JobHistoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/repository/JobHistoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/service/JobHistoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/service/JobHistoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/service/PackageArchDesignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/service/PackageArchDesignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/service/PackageInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/service/PackageInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/web/rest/DashboardResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/web/rest/DashboardResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/web/rest/PackageArchDesignResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/java/kr/co/polsoft/codeinsight/web/rest/PackageArchDesignResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/resources/config/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/resources/config/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/config/icon-loader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/config/icon-loader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/account/register/register.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/account/register/register.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management-edit-link-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management-edit-link-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management-edit-temp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management-edit-temp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management-meta-node-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management-meta-node-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/arch-management.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/components/arch-component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/arch-management/components/arch-component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-group-management.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-group-management.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-management.css" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-management.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-management.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-management.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-node-detail-management.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/meta-node-detail-management.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-detail-meta-management-delete-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-detail-meta-management-delete-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-detail-meta-management-update.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-detail-meta-management-update.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-detail-meta-management.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-detail-meta-management.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-group-meta-management-delete-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-group-meta-management-delete-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-group-meta-management-update.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-group-meta-management-update.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-group-meta-management.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-group-meta-management.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-meta-management-delete-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-meta-management-delete-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-meta-management-update.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-meta-management-update.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-meta-management.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/meta-management/node-meta-management.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-job-info-management/package-job-info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-job-info-management/package-job-info.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-job-schedule-management/package-job-schedule.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-job-schedule-management/package-job-schedule.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-management/package-management-update.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-management/package-management-update.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-run-management/package-run-management.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/package-run-management/package-run-management.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/user-management/user-management.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/administration/user-management/user-management.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-dashboard.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-dashboard.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-selector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/history-dashboard/history-selector.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/components/dashboard-arch-component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/components/dashboard-arch-component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/main-dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/main-dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/main-dashboard.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/main-dashboard.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/main-dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/modules/dashboard/main-dashboard/main-dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/routes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/menus/admin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/menus/admin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/menus/dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/menus/dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/menus/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/header/menus/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-arch-selector/project-arch-selector.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-arch-selector/project-arch-selector.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-arch-selector/project-arch-selector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-arch-selector/project-arch-selector.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-selector/project-selector.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-selector/project-selector.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-selector/project-selector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/layout/project-selector/project-selector.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/model/node-detail-meta.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/model/node-detail-meta.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/model/node-group-meta.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/model/node-group-meta.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/model/node-meta.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/model/node-meta.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/reducers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../codeinsight/src/main/webapp/app/shared/reducers/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codevaccine_v1" beforeDir="false" afterPath="$PROJECT_DIR$/../codevaccine_v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polsoft_home/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../polsoft_home/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polsoft_home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../polsoft_home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sci-engine" beforeDir="false" afterPath="$PROJECT_DIR$/../sci-engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.huskyrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/.yo-rc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/docker.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/profile_dev.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/profile_prod.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/sonar.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/war.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradle/zipkin.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/sonar-project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/grafana/provisioning/dashboards/JVM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/grafana/provisioning/dashboards/dashboard.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/grafana/provisioning/datasources/datasource.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/monitoring.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/postgresql.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/prometheus/prometheus.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/docker/sonar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/ApplicationWebXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/SinkwangApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/aop/logging/LoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/ApplicationProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/AsyncConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/CacheConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/CloudDatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/DatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/DateTimeFormatConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/DefaultProfileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/JacksonConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/LiquibaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/LocaleConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/LoggingAspectConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/LoggingConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/WebConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/audit/AuditEventConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/audit/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/config/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/domain/AbstractAuditingEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/domain/Authority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/domain/PersistentAuditEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/domain/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/repository/AuthorityRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/repository/CustomAuditEventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/repository/PersistenceAuditEventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/repository/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/AuthoritiesConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/DomainUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/SecurityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/SpringSecurityAuditorAware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/UserNotActivatedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/jwt/JWTConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/jwt/JWTFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/jwt/TokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/security/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/AuditEventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/dto/PasswordChangeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/dto/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/mapper/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/service/util/RandomUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/AccountResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/AuditResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/ClientForwardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/UserJWTController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/BadRequestAlertException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/EmailAlreadyUsedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/EmailNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/ErrorConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/ExceptionTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/FieldErrorVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/InvalidPasswordException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/LoginAlreadyUsedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/errors/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/vm/KeyAndPasswordVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/vm/LoginVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/vm/ManagedUserVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/java/kr/or/sinkwang/web/rest/vm/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/jib/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/application-tls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/liquibase/data/authority.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/liquibase/data/user.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/liquibase/data/user_authority.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/liquibase/master.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/config/tls/keystore.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/i18n/messages_ko.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/templates/mail/activationEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/templates/mail/creationEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/resources/templates/mail/passwordResetEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/_bootstrap-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/axios-interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/devtools.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/error-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/icon-loader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/logger-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/notification-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/config/translation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/entities/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/about/about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/about/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/about/map.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/about/service.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/about/step.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/about/welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/activate/activate.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/activate/activate.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/password-reset/finish/password-reset-finish.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/password-reset/init/password-reset-init.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/password-reset/password-reset.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/password/password.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/password/password.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/register/register.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/register/register.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/settings/settings.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/account/settings/settings.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/administration.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/audits/audits.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/configuration/configuration.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/docs/docs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/health/health-modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/health/health.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/logs/logs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/mainpage-management/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/mainpage-management/mainpage-management.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/mainpage-management/mainpage-management.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/metrics/metrics.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/user-management/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/user-management/user-management-delete-dialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/user-management/user-management-detail.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/user-management/user-management-update.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/user-management/user-management.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/administration/user-management/user-management.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/home/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/home/home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/login/login-modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/login/login.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/modules/login/logout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/routes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/auth/private-route.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/error/error-boundary-route.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/error/error-boundary.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/error/page-not-found.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/header/header-components.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/header/header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/about.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/account.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/entities.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/locale.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/menu-components.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/menus/menu-item.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/password/password-strength-bar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/layout/password/password-strength-bar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/model/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/reducers/action-type.util.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/reducers/application-profile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/reducers/authentication.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/reducers/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/reducers/locale.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/util/date-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/util/entity-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/shared/util/pagination.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/app/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/activate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/audits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/configuration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/error.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/health.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/home.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/login.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/mainpage-management.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/metrics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/password.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/reset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/sessions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/en/user-management.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/activate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/audits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/configuration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/error.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/health.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/home.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/login.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/mainpage-management.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/metrics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/password.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/reset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/sessions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/i18n/ko/user-management.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/manifest.webapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/css/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_0_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_0_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_0_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_0_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_1_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_1_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_1_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_1_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_2_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_2_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_2_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_2_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_3_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_3_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_3_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/jhipster_family_member_3_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/logo-jhipster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/service01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/service01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/service02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/service02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/service03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome01_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome01_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome01_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/static/images/welcome05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/swagger-ui/dist/images/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/main/webapp/swagger-ui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/config/WebConfigurerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/config/WebConfigurerTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/config/timezone/HibernateTimeZoneIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/repository/CustomAuditEventRepositoryIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/repository/timezone/DateTimeWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/repository/timezone/DateTimeWrapperRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/security/DomainUserDetailsServiceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/security/SecurityUtilsUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/security/jwt/JWTFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/security/jwt/TokenProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/service/MailServiceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/service/UserServiceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/service/mapper/UserMapperIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/AccountResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/AuditResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/ClientForwardControllerIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/UserJWTControllerIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/UserResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/errors/ExceptionTranslatorIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/java/kr/or/sinkwang/web/rest/errors/ExceptionTranslatorTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/config/axios-interceptor.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/config/notification-middleware.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/modules/account/activate/activate.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/modules/account/password/password.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/modules/account/register/register.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/modules/account/settings/settings.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/modules/administration/administration.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/modules/administration/user-management/user-management.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/auth/private-route.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/error/error-boundary-route.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/error/error-boundary.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/layout/header/header.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/layout/menus/account.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/reducers/application-profile.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/reducers/authentication.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/reducers/locale.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/shared/util/entity-utils.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/app/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/enzyme-setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/javascript/spec/storage-mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/resources/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/resources/i18n/messages_ko.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/src/test/resources/templates/mail/testEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/tsconfig.test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/webpack/logo-jhipster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/webpack/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/webpack/webpack.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/webpack/webpack.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/webpack/webpack.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang.bak/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../sinkwang/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinkwang/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sinkwang/.yo-rc.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TdGbGdGWMu3KaUlALrppcmB0E0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dca9b49-3fc2-4313-ac90-443fedb628dc" name="Default Changelist" comment="" />
+      <created>1573782628212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573782628212</updated>
+      <workItem from="1573782631081" duration="2423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
